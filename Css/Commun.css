@@ -2,3 +2,7 @@ body{
     background-color: floralwhite;
     font-family: 'Times New Roman', Times, serif;
 }
+a{
+    color: rgb(104, 43, 226);
+    font-weight: bold;
+}

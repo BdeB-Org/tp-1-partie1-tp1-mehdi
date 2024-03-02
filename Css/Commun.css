@@ -1,0 +1,15 @@
+body{
+    background-color: floralwhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: rgb(104, 43, 226);
+    font-weight: bold;
+}
+header{
+    color: rgb(253, 140, 196);
+    border: 1000px;
+}
+h1{
+    text-align: center;
+}
